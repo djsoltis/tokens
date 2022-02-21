@@ -1,0 +1,11 @@
+{
+ "name": "The Toker Token",
+ "website": "https://mcweedy.me",
+ "description": "Toker - Earn It Just To Burn It",
+ "explorer": "https://polygonscan.com/address/0x9aCb7988A3409ad1B5430972c9c5077A3c76A26E",
+ "type": "polygon",
+ "symbol": "TOKER",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9aCb7988A3409ad1B5430972c9c5077A3c76A26E"
+}
